@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * 1
         * Modelling
         * Deploying
         
