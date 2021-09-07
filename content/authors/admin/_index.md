@@ -45,7 +45,7 @@ superuser: true
 title: Johan Córdoba Peraza
 ---
 
-Johan Córdoba Peraza  es un profesional en geografía, que nació en San José pero gran parte de su niñez y adolecencia la pasó en la zona del caribe costarricense.
+Johan Córdoba Peraza  es un profesional en geografía, que nació en San José pero gran parte de su niñez y adolecencia la vivió en la zona del caribe costarricense donde conoció lugares como Siquirres, Limón, Pocora, Zent, Matina, Estrada, Bananito sur, San Andrés, San Clemente, Puerto Viejo de Sarapiquí y Río Frio de la Zona Norte de Costa Rica.
 Posteriormente, su familia y él, se trasladaron a San José, capital de Costa Rica para terminar los estudios en la secundaria e iniciar, en el año 2000, los estudios superiores en la Universidad de Costa Rica, en donde ingresó a la carrera de Geografía que finalizó en el año 2010 para luego iniciar un posgrado en la Escuela de Geología de la UCR y que está relacionado con la Gestión del Riesgo de Desastres y atención de emergencias dondo obtuvo el título en el año 2013. Sus pasatiempos son: caminar, hacer deportes, leer, escuchar música, salir a comer y pasar tiempo con la familia.
 
 
